@@ -12,3 +12,4 @@ https://store.shopping.yahoo.co.jp/orangepicoshop/pico-i-009.html
 ![MEZ80RAM PCB TOP](https://github.com/satoshiokue/MEZ80RAM/blob/main/imgs/MEZ80RAM_top.jpg)
 ![MEZ80RAM PCB BOTTOM](https://github.com/satoshiokue/MEZ80RAM/blob/main/imgs/MEZ80RAM_bottom.jpg)
 
+https://github.com/satoshiokue/SuperMEZ80
